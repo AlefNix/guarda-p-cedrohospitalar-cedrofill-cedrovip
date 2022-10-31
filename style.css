@@ -496,14 +496,11 @@ border-bottom:1px solid #919191;
 .social_masculino{
     padding-left: 270px;
 }
-.costas {
-    margin-left: -100px;
-}
 .cores, .coresb, .coresGE, .coresGI, .coresP, .coresVE, .coresVD, .coresBF, .coresBB {
-    left: 850px;
+    left: 1060px;
 }
 .uploader {
-    margin-left: 925px;
+    margin-left: 65px;
 }
 
 /*-------------------------------------------------------------------------------------------------------------*/
